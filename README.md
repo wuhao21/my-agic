@@ -9,4 +9,8 @@ Monday, March 6, 2023
 > an animated PFP that incorporates the colors of the sunset: warm, vibrant, beautiful, peaceful, glowing, dreamy, romantic, inspiring, serene, picturesque
 
 ![1](midjourney1.png)
-![1](midjourney2.png)
+![2](midjourney2.png)
+
+> an animated PFP that incorporates the colors of the ocean: deep, blue, tranquil, peaceful, refreshing, soothing, calming, invigorating, serene, expansive
+
+![3](midjourney3.png)
